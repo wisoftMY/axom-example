@@ -1,0 +1,23 @@
+com/cqrs/query/entity/HolderAccountSummary.java
+ com.cqrs.query.entity.HolderAccountSummary
+ com.cqrs.query.entity.HolderAccountSummary$HolderAccountSummaryBuilder
+com/cqrs/query/version/HolderCreationEventV1.java
+ com.cqrs.query.version.HolderCreationEventV1
+com/cqrs/query/QueryApplication.java
+ com.cqrs.query.QueryApplication
+com/cqrs/query/config/AxonConfig.java
+ com.cqrs.query.config.AxonConfig
+com/cqrs/query/repository/AccountRepository.java
+ com.cqrs.query.repository.AccountRepository
+com/cqrs/query/projection/HolderAccountProjection.java
+ com.cqrs.query.projection.HolderAccountProjection
+com/cqrs/query/query/AccountQuery.java
+ com.cqrs.query.query.AccountQuery
+com/cqrs/query/service/QueryServiceImpl.java
+ com.cqrs.query.service.QueryServiceImpl
+com/cqrs/query/service/QueryService.java
+ com.cqrs.query.service.QueryService
+com/cqrs/query/controller/HolderAccountController.java
+ com.cqrs.query.controller.HolderAccountController
+com/cqrs/query/controller/WebController.java
+ com.cqrs.query.controller.WebController
